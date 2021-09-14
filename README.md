@@ -1,4 +1,4 @@
-Restaurant home page
+Restaurant Website
 
   Build with: 
 
