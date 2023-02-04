@@ -10,6 +10,5 @@ Restaurant Website
 
   Website is responsive. JS file includes keyframes, hover effect animations and Scroll Reveal.
 
-  Link: https://youtu.be/FZQxPTV3cFk
 
 
